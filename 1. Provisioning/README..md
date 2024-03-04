@@ -1,4 +1,7 @@
 # Provisioning
+
+### Melakukan persiapan server melalui Ansible seperti instalasi docker di kedua server dan webserver nginx beserta reverse proxy dan generete SSL Certificate
+
 ```
 Requirements
 - ansible
