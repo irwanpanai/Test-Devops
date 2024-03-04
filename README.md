@@ -12,6 +12,10 @@ melakukan clonning sample app ke server appserver
 
 mengatur server dengan menambahkan firewall rules pada gcp
 
-## [3. Deployment](https://github.com/irwanpanai/Test-Devops/tree/main/4.%20Deployment)
+## [4. Deployment](https://github.com/irwanpanai/Test-Devops/tree/main/4.%20Deployment)
 
 Mendeploy aplikasi dengan menggunakan docker compose
+
+## [5. CICD](https://github.com/irwanpanai/Test-Devops/tree/main/5.%20CICD)
+
+Menerapkan CICD menggunakan gitlabCI
